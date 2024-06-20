@@ -1,0 +1,23 @@
+{
+  "name": "144",
+  "version": "1.0.0",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saisree",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {},
+  "description": "this is calculator program",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoopaChinthala/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RoopaChinthala/calculator/issues"
+  },
+  "homepage": "https://github.com/RoopaChinthala/calculator#readme"
+}
